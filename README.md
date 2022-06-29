@@ -1,7 +1,5 @@
 # week-2-homework-1
 
-## This repo contains exercises & questions from the Inanc Gümüş's [learngo](https://github.com/inancgumus/learngo) repo.
-
 - [ ] Homework for Week 2
     - Please repeat the chapters 2 & 3 discussed in the class. 
     - Please read chapter 4 and 5 from the book and try to understand their example code in the project "Fundamentals of Go"
