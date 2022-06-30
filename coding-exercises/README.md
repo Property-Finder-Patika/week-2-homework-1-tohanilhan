@@ -4,4 +4,4 @@
 - [x] An exercise for conversions among basic types
 - [x] An exercise for conversions among string and basic types using strconv package
 - [x] An exercise for iota
-- [ ] An exercise for scope
+- [x] An exercise for scope
